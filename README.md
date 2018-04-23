@@ -1,4 +1,4 @@
-# RFID library for Arduino
+# RFID code for Arduino
 
 1.PN532 folder and PN532_HSU folder are Arduino libraries for PN532.
 
