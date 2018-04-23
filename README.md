@@ -1,4 +1,4 @@
-# RFID code for Arduino
+# Arduino code for RFID+Arduino+UBEC smart lighting system
 
 1.PN532 folder and PN532_HSU folder are Arduino libraries for PN532.
 
