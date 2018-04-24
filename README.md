@@ -1,7 +1,7 @@
 # Introduction
 1.PN532 folder and PN532_HSU folder are Arduino libraries for PN532.
 
-2.iso14443a_uid_Uno_UART_V4_Work.ino is the Arduino example file.
+2.Arduino_Uno_UART.ino is the Arduino example file.
 
 # Getting Started
 
